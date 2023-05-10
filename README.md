@@ -1,5 +1,7 @@
-<h1 align=center>Educenter Hugo</h1> 
-<p align=center> Educenter is a Hugo theme designed specifically for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more. </p>
+<h1 align=center>Forked Repository of Educenter Hugo </h1> 
+<p align=center> Educenter is a Hugo theme designed specifically for educational websites. This sleek theme is packed with all the elements that you need to show info about your school, courses, instructors, announcements, and more... by ThemeFisher.</p>
+
+<p align=center> We used this theme to design website for Govt. Polytechnic College, Maheshwaram, Hyderabad, India.</p>
 
 <h2 align="center"> <a target="_blank" href="https://demo.gethugothemes.com/educenter" rel="nofollow">Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/report?url=https%3A%2F%2Fdemo.gethugothemes.com%2Feducenter%2Fsite%2F&form_factor=desktop">Page Speed (96%)</a></h2>
 
@@ -16,10 +18,6 @@
 
   <a href="https://github.com/themefisher/educenter-hugo/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/themefisher/educenter-hugo" alt="contributors"></a>
-
-  <a href="https://twitter.com/intent/follow?screen_name=gethugothemes">
-    <img src="https://img.shields.io/twitter/follow/gethugothemes?style=social&logo=twitter"
-      alt="follow on Twitter"></a>
 </p>
 
 ---
@@ -63,14 +61,8 @@ Or Check out [Full Documentation](https://docs.gethugothemes.com/educenter/?ref=
 
 ## Content Management System
 
-[![import to
-Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.87.0)
+This project has been pre-configured to work with Forestry a git-based CMS, by original maintainers. But forestry got evolved to Tina CMS so please refer to this forestry migration guide on Tina CMS
 
-This project has been pre-configured to work with [Forestry](https://forestry.io) a git-based CMS, [import your
-repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/educenter-hugo&engine=hugo&version=0.87.0) and
-you will be able to edit and preview your site ✨.
-
-Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
 ## Deployment and hosting
 
 [![Deploy to
@@ -84,17 +76,10 @@ Build your website with **Educenter Hugo** theme by following these easy steps (
 
 <!-- reporting issue -->
 ## Reporting Issues
-We use GitHub Issues as the official bug tracker for the Educenter  Template. Please Search [existing
-issues](https://github.com/themefisher/educenter-hugo/issues). Someone may have already reported the same problem.
+Please Search [existing
+issues](https://github.com/themefisher/educenter-hugo/issues) in the main repository. Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
-issue](https://github.com/themefisher/educenter-hugo/issues).
-
-
- ## Submit Your Website To Our Showcase
-
-Are you using Educenter Hugo theme? Submit it to our [showcase](https://gethugothemes.com/showcase). 
-
-Our showcase aims to demonstrate to the world what amazing websites people like you have created utilizing our Hugo themes and to show that Hugo has tremendous capabilities as a Static Site Generator. 
+issue](https://github.com/themefisher/educenter-hugo/issues) in main repository and tag [@py563](https://github.com/py563) if you want it to be addressed in our fork.
 
 View all the websites powered by Educenter Hugo from [here](https://gethugothemes.com/showcase?theme=educenter). 
 
@@ -120,16 +105,3 @@ share those images.
 - [Filterizr](https://yiotis.net/filterizr/)
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/themefisher/educenter-hugo/graphs/contributors)
-
-
-## Hire Us
-Besides developing unique, blazing-fast Hugo themes, we also provide customized services. We specialize in creating affordable, high-quality static websites based on Hugo. 
-
-If you need to customize the theme or complete website development from scratch, you can hire us. **Check Our 
-[Services](https://gethugothemes.com/services/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme)**
-
-<!-- premium themes -->
-## Premium Themes By Us
-| [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.png?)](https://gethugothemes.com/bundle/?utm_source=educenter_github&utm_medium=referral&utm_campaign=github_theme_readme) | [![Bizcraft](https://demo.gethugothemes.com/thumbnails/bizcraft.png)](https://gethugothemes.com/products/bizcraft/) | [![Meghna](https://demo.gethugothemes.com/thumbnails/bexer.png)](https://gethugothemes.com/products/bexer/) |
-|:---:|:---:|:---:|
-| **Get 55+ Premium Hugo Themes Bundle** | **Bizcraft** | **Bexer** |

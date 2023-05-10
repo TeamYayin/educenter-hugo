@@ -195,6 +195,10 @@ name = "scholarship"
 url = "scholarship/"
 
 [[Languages.en.menu.footer]]
+name = "committee"
+url = "committee/"
+
+[[Languages.en.menu.footer]]
 name = "research"
 url = "research/"
 
